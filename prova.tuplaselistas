@@ -1,0 +1,5 @@
+frutas = ["maçã", "banana", "laranja", "uva", "manga", "kiwi"]
+
+frutas_tupla = tuple(frutas)
+
+print(frutas_tupla)
